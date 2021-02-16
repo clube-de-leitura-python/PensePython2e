@@ -1,4 +1,10 @@
 # Pense em Python com Processing misturado
+## feito em colaboração
+
+Um *italico*, **negrito**, ***bisdadsasd***
+
+[Estequiometria](https://www.todamateria.com.br/estequiometria/)
+
 
 <!--- a href="https://novatec.com.br/livros/pense-em-python/"><img src="https://github.com/PenseAllen/PensePython2e/raw/master/img/Capa_PenseEmPython167x232.png" align="right" style="margin-left: 20px;"></a --->
 
