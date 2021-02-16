@@ -1,6 +1,14 @@
 # Pense em Python com Processing misturado
 ## feito em colaboração
 
+
+### proporção
+
+Proporção trata de por em relação quantidades ou valores entre itens
+asdsdjfsdf asdf asdf
+asdfas dfasdfsaf d
+sd
+
 <!--- a href="https://novatec.com.br/livros/pense-em-python/"><img src="https://github.com/PenseAllen/PensePython2e/raw/master/img/Capa_PenseEmPython167x232.png" align="right" style="margin-left: 20px;"></a --->
 
 Este repositório contém um experimento de misturar a tradução do livro [Think Python](http://greenteapress.com/wp/think-python-2e/) (2ª edição), de Allen B. Downey, publicado sob licença [CC BY-NC 3.0](LICENSE.md) com Processing Modo Python para usar em aulas. É uma coisa precária e que não sei se vai dar muito certo.
