@@ -1,4 +1,4 @@
-# Prefácio
+# Prefácio do livro original Pense em Python de Allen Downey
 
 ## A estranha história deste livro
 
