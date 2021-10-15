@@ -1,5 +1,7 @@
 # Erros encontrados na tradução
 
+Histórico de correções já executadas neste material
+
 ## Prefácio
 
 Ante-penúltimo ponto: em vez de "Muito, muito obrigada" deveria ser "Muito, muito obrigado"
