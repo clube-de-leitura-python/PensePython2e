@@ -8,8 +8,6 @@ Este livro ensina programação para quem nunca programou. Este repositório con
 - [Versão navegável do livro com anotações, alterações](https://clube-de-leitura-Python.github.io/PensePython2e/)
 - [Versão navegável do livro original](https://penseallen.github.io/PensePython2e/)
 
-> Possivelmente eu vá misturar no meio exemplos de Processing Modo Python para usar em aulas. É uma coisa meio precária e que não sei se vai dar muito certo.
-
 > __DICA__: Você pode comprar um exemplar impresso de [__Pense em Python__](https://novatec.com.br/livros/pense-em-python/) no site da [Editora Novatec](https://novatec.com.br/livros/pense-em-python/) ou em livrarias. [ISBN: 978-85-7522-508-0](https://novatec.com.br/livros/pense-em-python/).
 > [Versão navegável em HTML do livro original em ](https://PenseAllen.github.io/PensePython2e/)
 >
