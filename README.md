@@ -5,7 +5,7 @@
 
 Este livro ensina programação para quem nunca programou. Este repositório contém um experimento de misturar a tradução do livro [Think Python](http://greenteapress.com/wp/think-python-2e/) (2ª edição), de Allen B. Downey, publicado sob licença [CC BY-NC 3.0](LICENSE.md) com algumas anotações e edições na tradução feitas pelas pessoas participantes do [clube de leitura Python](http://github.com/clube-de-leitura-Python).
 
-- [Versão navegável do livro com anotações, alterações](https://abav.lugaralgum.com/PensePython2e/)
+- [Versão navegável do livro com anotações, alterações](https://clube-de-leitura-Python.github.io/PensePython2e/)
 - [Versão navegável do livro original](https://penseallen.github.io/PensePython2e/)
 
 > Possivelmente eu vá misturar no meio exemplos de Processing Modo Python para usar em aulas. É uma coisa meio precária e que não sei se vai dar muito certo.
