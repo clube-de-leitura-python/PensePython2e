@@ -53,4 +53,6 @@ Assistente Editorial: Priscila A. Yoshimatsu
 
 Allen Downey publicou o [original em inglês](http://greenteapress.com/wp/think-python-2e/) sob uma licença Creative Commons Atribuição-NãoComercial [CC BY-NC 3.0](https://github.com/PenseAllen/PensePython2/blob/master/LICENSE.md). A Novatec oferece à comunidade esta tradução nos termos da mesma licença do original, [CC BY-NC 3.0](https://github.com/PenseAllen/PensePython2/blob/master/LICENSE.md), atendendo ao desejo do autor oferecer seu trabalho através de uma licença livre.
 
-Esta versão digital de __Pense em Python__ em português foi gerada por [Luciano Ramalho](https://twitter.com/ramalhoorg) da [ThoughtWorks](https://www.thoughtworks.com/) a partir de arquivos cedidos por [Rubens Prates](https://novatec.com.br/autores/rprates.php) da [Editora Novatec](https://novatec.com.br).
+Uma versão digital de __Pense em Python__ em português foi gerada por [Luciano Ramalho](https://twitter.com/ramalhoorg) da [ThoughtWorks](https://www.thoughtworks.com/) a partir de arquivos cedidos por [Rubens Prates](https://novatec.com.br/autores/rprates.php) da [Editora Novatec](https://novatec.com.br) no repositório https://github.com/PenseAllen/PensePython2e.
+
+Esta página contém anotações e modificações que as pessoas participantes do [clube de leitura Python](https://github.com/clube-de-leitura-python/) fazem neste outro repositório: https://github.com/clube-de-leitura-python/PensePython2e/.
