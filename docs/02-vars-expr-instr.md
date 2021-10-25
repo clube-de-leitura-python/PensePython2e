@@ -237,58 +237,71 @@ Há três tipos de erros que podem ocorrer em um programa: erros de sintaxe, err
 <dd>Um nome que se refere a um valor.</dd>
 
 <dt><a id="glos:atribuição" href="#termo:atribuição">atribuição</a></dt>
-<dd>Uma instrução que atribui um valor a uma variável.</dd>
+<dd>Uma instrução que atribui um valor a uma variável.<br>
+<em>Exemplos</em> <code>velocidade_inicial = 50.5</code><br>
+<em>(Note que então</em> <code>velocidade_inicial</code><em> é uma variável e agora aponta para o valor</em> <code>50.5</code>)</dd>
 
 <dt><a id="glos:diagrama de estado" href="#termo:diagrama de estado">diagrama de estado</a></dt>
 <dd>Uma representação gráfica de um grupo de variáveis e os valores a que se referem.</dd>
 
 <dt><a id="glos:palavra-chave" href="#termo:palavra-chave">palavra-chave</a></dt>
-<dd>Uma palavra reservada, usada para analisar um programa; não é possível usar palavras-chave como if, def e while como nomes de variáveis.</dd>
+<dd>Uma palavra reservada, usada para analisar um programa; não é possível usar palavras-chave como <code>if</code>, <code>def</code> e <code>while</code> como nomes de variáveis.</dd>
 
 <dt><a id="glos:operando" href="#termo:operando">operando</a></dt>
 <dd>Um dos valores que um operador produz.</dd>
 
 <dt><a id="glos:expressão" href="#termo:expressão">expressão</a></dt>
-<dd>Uma combinação de variáveis, operadores e valores que representa um resultado único.</dd>
+<dd>Uma combinação de variáveis, operadores e valores que representa um resultado único.<br>
+<em>Exemplo com o operador de soma</em> <code>+</code>, <em>e com os operandos</em> <code>2</code> <em>e</em> <code>3</code><em>:</em> <code>2 + 3</code>.<br>
+<em>Exemplo com o operador de atribuição</em> <code>=</code> <em>e a variável idade:</em> <code>idade = 7</code></dd>
 
 <dt><a id="glos:avaliar" href="#termo:avaliar">avaliar</a></dt>
 <dd>Simplificar uma expressão executando as operações para produzir um valor único.</dd>
 
 <dt><a id="glos:instrução" href="#termo:instrução">instrução</a></dt>
-<dd>Uma seção do código que representa um comando ou ação. Por enquanto, as instruções que vimos são instruções de atribuições e de exibição.</dd>
+<dd>Uma seção do código que representa um comando ou ação. Por enquanto, as instruções que vimos são instruções de atribuições e de exibição.<br>
+<em>Em seguida veremos instruções que chamam funções ou funções por nós definidas.</em></dd>
 
 <dt><a id="glos:executar" href="#termo:executar">executar</a></dt>
 <dd>Executar uma instrução para fazer o que ela diz.</dd>
 
 <dt><a id="glos:modo interativo" href="#termo:modo interativo">modo interativo</a></dt>
-<dd>Um modo de usar o interpretador do Python, digitando o código no prompt.</dd>
+<dd>Um modo de usar o interpretador do Python, digitando o código no prompt. <code>>>></code><br>
+<em>(Fica na parte de baixo da janela se você estiver usando o IDE, editor de código, Thonny)</em></dd>
 
 <dt><a id="glos:modo script" href="#termo:modo script">modo script</a></dt>
-<dd>Um modo de usar o interpretador do Python para ler código em um script e executá-lo.</dd>
+<dd>Um modo de usar o interpretador do Python para ler código em um script e executá-lo.<br>
+<em>(Os arquivos com terminação</em> <code>.py</code> <em>na parte de cima da janela se você estiver usando o editor Thonny)</em></dd>
 
 <dt><a id="glos:script" href="#termo:script">script</a></dt>
-<dd>Um programa armazenado em um arquivo.</dd>
+<dd>Um programa armazenado em um arquivo <em>(em geral com a terminação</em> <code>.py</code> <em>no Python)</em>.</dd>
 
 <dt><a id="glos:ordem das operações" href="#termo:ordem das operações">ordem das operações</a></dt>
-<dd>As regras que governam a ordem na qual as expressões que envolvem vários operadores e operandos são avaliadas.</dd>
+<dd>As regras que governam a ordem na qual as expressões que envolvem vários operadores e operandos são avaliadas.<br>
+<em>Por exemplo, expressões entre parenteses são avaliadas antes, depois multiplicação e divisão da esquerda para a direita, depois soma e subtração</em></dd>
 
 <dt><a id="glos:concatenar" href="#termo:concatenar">concatenar</a></dt>
-<dd>Juntar dois operandos pelas extremidades.</dd>
+<dd>Juntar dois operandos pelas extremidades.<br>
+<em>Em termos simplificados, justapor ou somar por justaposição</em></dd>
 
 <dt><a id="glos:comentários" href="#termo:comentários">comentários</a></dt>
-<dd>Informações em um programa destinadas a outros programadores (ou qualquer pessoa que leia o texto fonte) que não têm efeito sobre a execução do programa.</dd>
+<dd>Informações em um programa destinadas a outros programadores (ou qualquer pessoa que leia o texto fonte) que não têm efeito sobre a execução do programa. <br>
+<em>No Python, trechos de código após o caractere</em> <code>#</code> <em>ou até linhas inteiras iniciadas com</em> <code>#</code>.</dd>
 
 <dt><a id="glos:erro de sintaxe" href="#termo:erro de sintaxe">erro de sintaxe</a></dt>
-<dd>Um erro em um programa que torna sua análise impossível (e por isso impossível de interpretar).</dd>
+<dd>Um erro em um programa que torna sua análise impossível (e por isso impossível de interpretar).<br>
+<em>O programa pára e o interpretador Python reclama.</em></dd>
 
 <dt><a id="glos:exceção" href="#termo:exceção">exceção</a></dt>
-<dd>Um erro que se descobre quando o programa é executado.</dd>
+<dd>Um erro que se descobre quando o programa é executado. <br>
+<em>Exemplo, você tenta fazer uma divisão e a variável do divisor aponta para o valor 0 (zero). O programa tenta fazer uma divisão por zero e levanta uma exceção. Outro exemplo, você tenta salvar um arquivo, mas a pasta indicada pelo usuário não existe, é levantada uma exceção de Entrada e Saída de arquivos</em> <code>(FileIO)</code></dd>
 
 <dt><a id="glos:semântica" href="#termo:semântica">semântica</a></dt>
 <dd>O significado de um programa.</dd>
 
 <dt><a id="glos:erro semântico" href="#termo:erro semântico">erro semântico</a></dt>
-<dd>Um erro que faz com que um programa faça algo diferente do que o programador pretendia.</dd>
+<dd>Um erro que faz com que um programa faça algo diferente do que o programador pretendia.<br>
+<em>Existe uma piada ótima em programação que é a seguinte: "O computador faz o que a gente manda, não o que a gente quer"</em></dd>
 
 </dl>
 
