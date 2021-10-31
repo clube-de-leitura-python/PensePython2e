@@ -244,11 +244,12 @@ Aprender a depurar erros pode ser frustrante, mas é uma habilidade valiosa, út
 <dd>Caracteres expostos pelo interpretador para indicar que está pronto para receber entradas do usuário.<br>
 <em>No console interativo do Python costuma ser:</em> <code> >>> </code></dd>
 
+
 <dt><a id="glos:programa" href="#termo:programa">programa</a></dt>
 <dd>Conjunto de instruções que especificam uma operação de computação.</dd>
 
 <dt><a id="glos:instrução print" href="#termo:instrução print">instrução print</a></dt>
-<dd>Uma instrução que faz o interpretador do Python exibir um valor na tela.</dd>
+<dd>Uma instrução que faz o interpretador do Python exibir um valor na tela. </br><i>Note que no Python 3 trata-se de uma função que deve ser chamada com parenteses: <code>print(valor)</code>.</i></dd>
 
 <dt><a id="glos:operador" href="#termo:operador">operador</a></dt>
 <dd>Um símbolo especial que representa uma operação de computação simples como adição (<code>+</code>), multiplicação (<code>*</code>) ou concatenação de strings (<em>também o </em><code>+</code>).</dd>
@@ -289,8 +290,7 @@ Aprender a depurar erros pode ser frustrante, mas é uma habilidade valiosa, út
 <dd>Um erro em um programa.</dd>
 
 <dt><a id="glos:depuração" href="#termo:depuração">depuração</a></dt>
-  <dd>O processo de encontrar e corrigir (depurar) bugs. <em>As pessoas também falam "debugar"</em></dd>
-
+<dd>O processo de encontrar e corrigir (depurar) bugs. <em>As pessoas também falam "debugar"</em></dd>
 </dl>
 
 ## 1.9 - Exercícios
