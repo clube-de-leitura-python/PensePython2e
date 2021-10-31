@@ -241,9 +241,9 @@ Aprender a depurar erros pode ser frustrante, mas é uma habilidade valiosa, út
 <dd>Um programa que lê outro programa e o executa.</dd>
 
 <dt><a id="glos:prompt" href="#termo:prompt">prompt</a></dt>
-<dd>Caracteres expostos pelo interpretador para indicar que está pronto para receber entradas do usuário.
-  </br><i>No console interativo do Python, também conhecido como REPL, costuma ser: <code>>>></code>.</i>  
-</dd>
+<dd>Caracteres expostos pelo interpretador para indicar que está pronto para receber entradas do usuário.<br>
+<em>No console interativo do Python costuma ser:</em> <code> >>> </code></dd>
+
 
 <dt><a id="glos:programa" href="#termo:programa">programa</a></dt>
 <dd>Conjunto de instruções que especificam uma operação de computação.</dd>
@@ -252,25 +252,24 @@ Aprender a depurar erros pode ser frustrante, mas é uma habilidade valiosa, út
 <dd>Uma instrução que faz o interpretador do Python exibir um valor na tela. </br><i>Note que no Python 3 trata-se de uma função que deve ser chamada com parenteses: <code>print(valor)</code>.</i></dd>
 
 <dt><a id="glos:operador" href="#termo:operador">operador</a></dt>
-<dd>Um símbolo especial que representa uma operação de computação simples como adição (<code>+</code>), multiplicação (<code>*</code>) ou concatenação de strings (<i>também o</i> <code>+</code>).</dd>
+<dd>Um símbolo especial que representa uma operação de computação simples como adição (<code>+</code>), multiplicação (<code>*</code>) ou concatenação de strings (<em>também o </em><code>+</code>).</dd>
 
 <dt><a id="glos:valor" href="#termo:valor">valor</a></dt>
-<dd>Uma das unidades básicas de dados, como um número ou string  (<i>sequências de caracteres, isto é, texto</i>) , que um programa manipula.</dd>
+<dd>Uma das unidades básicas de dados, como um número ou string (<em>sequencias de caracteres, texto</em>), que um programa manipula.</dd>
 
 <dt><a id="glos:tipo" href="#termo:tipo">tipo</a></dt>
 <dd>Uma categoria de valores. Os tipos que vimos por enquanto são números inteiros (tipo <code>int</code>), números de ponto flutuante (tipo <code>float</code>) e strings (tipo <code>str</code>).</dd>
 
-<dt><a id="glos:inteiro" href="#termo:inteiro">inteiro</a>(<code>int</code>)</dt>
-<dd>Um tipo que representa números inteiros.<i>Exemplos: 42 , 0, ou -100.</i></dd>
+<dt><a id="glos:inteiro" href="#termo:inteiro">inteiro</a></dt>
+  <dd>Um tipo que representa números inteiros. <em>Exemplos: <code>42</code> , <code>0</code>, ou <code>-100</code>.</em></dd>
 
-<dt><a id="glos:ponto flutuante" href="#termo:ponto flutuante">ponto flutuante</a>(<code>float</code>)</dt>
-<dd>Um tipo que representa números com partes fracionárias.
-<p><i>No Brasil, em português, o separador decimal é a vírgula, mas na maior parte das linguagens de programação, com influência da língua inglesa, o separador decimal é o ponto, então representação decimal dos números de ponto flutuante, floating point, (abreviadamente float) é com ponto. Exemplos: 3.14, ou 0.23.</i></p></dd>
+<dt><a id="glos:ponto flutuante" href="#termo:ponto flutuante">ponto flutuante</a></dt>
+<dd>Um tipo que representa números com partes fracionárias.<br>
+    <em>No Brasil, em português, o separador decimal é a vírgula, mas na maior parte das linguagens de programação, com influência da língua inglesa, o separador decimal é o ponto, então representação decimal dos números de ponto flutuante, floating point, (abreviadamente float) é com ponto. Exemplos: <code>3.14</code>, ou <code>0.23</code>.</em></dd>
 
-<dt><a id="glos:string" href="#termo:string">string</a>(<code>str</code>)</dt>
-<dd>Um tipo que representa sequências de caracteres.
-<p><i>No corpo do programa podemos criar strings com expressões entre aspas, exemplo: nome = 'Alexandre'. A variável nome agora aponta para um string. Mas futuramente veremos que dados em forma de string podem vir de fontes fora do programa também.</i></p>
-</dd>
+<dt><a id="glos:string" href="#termo:string">string</a></dt>
+<dd>Um tipo que representa sequências de caracteres.<br>
+  <em>No corpo do programa podemos criar strings com expressões entre aspas, exemplo:</em> <code>nome = 'Alexandre'</code>. <em>A variável nome agora aponta para um string. Mas futuramente veremos que dados em forma de string podem vir de fontes fora do programa também.</em></dd>
 
 <dt><a id="glos:linguagem natural" href="#termo:linguagem natural">linguagem natural</a></dt>
 <dd>Qualquer linguagem que as pessoas falam e que se desenvolveu naturalmente.</dd>
@@ -291,9 +290,7 @@ Aprender a depurar erros pode ser frustrante, mas é uma habilidade valiosa, út
 <dd>Um erro em um programa.</dd>
 
 <dt><a id="glos:depuração" href="#termo:depuração">depuração</a></dt>
-<dd>O processo de encontrar e corrigir (depurar) bugs. <i>As pessoas também falam "debugar"
-</i></dd>
-
+<dd>O processo de encontrar e corrigir (depurar) bugs. <em>As pessoas também falam "debugar"</em></dd>
 </dl>
 
 ## 1.9 - Exercícios
