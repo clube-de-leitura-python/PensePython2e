@@ -249,7 +249,7 @@ Aprender a depurar erros pode ser frustrante, mas é uma habilidade valiosa, út
 <dd>Conjunto de instruções que especificam uma operação de computação.</dd>
 
 <dt><a id="glos:instrução print" href="#termo:instrução print">instrução print</a></dt>
-<dd>Uma instrução que faz o interpretador do Python exibir um valor na tela. </br><i>Note que no Python 3 trata-se de uma função que deve ser chamada com parenteses: <code>print(valor)</code>.</dd>
+<dd>Uma instrução que faz o interpretador do Python exibir um valor na tela. </br><i>Note que no Python 3 trata-se de uma função que deve ser chamada com parenteses: <code>print(valor)</code>.</i></dd>
 
 <dt><a id="glos:operador" href="#termo:operador">operador</a></dt>
 <dd>Um símbolo especial que representa uma operação de computação simples como adição (<code>+</code>), multiplicação (<code>*</code>) ou concatenação de strings (<i>também o</i> <code>+</code>).</dd>
